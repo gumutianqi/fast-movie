@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>快影 - 院线电影热映同步</title>
   <subtitle>院线热映同步</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/fast-movie/atom.xml" rel="self"/>
   
   <link href="http://gumutianqi.github.io/fast-movie/"/>
   <updated>2017-04-25T09:17:19.000Z</updated>
