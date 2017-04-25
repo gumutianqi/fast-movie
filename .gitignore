@@ -69,3 +69,7 @@ typings/
 .env
 /.logs
 models/serversApi.js
+
+# Hexo Build
+public/
+db.json
