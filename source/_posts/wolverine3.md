@@ -1,5 +1,5 @@
 ---
-title: 金刚狼3 - 殊死一战
+title: "[720P]金刚狼3-殊死一战.HD韩版中英双字"
 date: 2017-04-25 20:02:02
 categories: movie
 tags: 
